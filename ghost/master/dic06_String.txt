@@ -34,6 +34,8 @@ Read me(&R)
 
 
 ＠homeurl
+https://raw.githubusercontent.com/TackNax/Osuwari_imaken/master/
+
 
 ＃ネットワーク更新時にアクセスするアドレス。
 ＃フォルダ名を記述、最後に/をつけてください。例のような形になります。
