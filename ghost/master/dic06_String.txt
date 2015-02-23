@@ -1,0 +1,115 @@
+shiori互換dll『里々（さとり）』用辞書 
+　 
+　メニューのボタン名とか。 
+　ネットワーク更新の際のデータ置き場とか。 
+　おすすめ／ポータルなURLの一覧とか。 
+
+
+＠portalrootbutton.caption
+このソフトについて／お問い合わせ(&P)
+
+＠recommendrootbutton.caption
+げんさく
+
+＠kero.recommendbuttoncaption
+￥１のおすすめ(&R)
+
+＠updatebutton.caption
+オンラインアップデート(&U)
+ネットワーク更新(&U)
+
+＠vanishbutton.caption
+消滅(&F)
+アンインストール(&F)
+vanish(&F)
+
+＠readmebutton.caption
+現在のシェルについて(&R)
+取扱説明書(&R)
+Read me(&R)
+
+＠vanishbutton.visible
+1 
+＃消滅指示を表示するかどうか。1で表示、0で非表示（色が変わり選択できなくなる）です。
+
+
+＠homeurl
+
+＃ネットワーク更新時にアクセスするアドレス。
+＃フォルダ名を記述、最後に/をつけてください。例のような形になります。
+＃例）http://red_post.sakura.ne.jp/R_POST_and_KOMAINU/
+
+＠username
+（ユーザ名） 
+
+＊コメント
+
+　URL一覧は…… 
+
+　１行目がサイト名 
+　２行目がジャンプ先URL 
+　３行目がバナーURL（省略可） 
+　４行目以降はジャンプ時に表示される会話文（省略可） 
+
+
+＃＊sakura.recommendsites
+＃作者のサイト。ここを使わずに、sakura.portalsitesにまとめてしまうのも一つの方法。 
+＃http://～ 
+＃バナー（あれば） 
+
+
+＊sakura.recommendsites
+刀剣乱舞-ＯＮＬＩＮＥ-
+http://www.dmm.com/netgame_s/tohken/
+
+：ゲームでも、（５）あるじ様をお助けします！
+
+＊sakura.recommendsites
+原作ツイッター
+https://twitter.com/tkrb_ntr
+
+＊sakura.recommendsites
+開発／運営ツイッター
+https://twitter.com/TOUKEN_STAFF
+
+
+＃＊sakura.portalsites
+＃-
+＃「-」といれることでリンクメニューに罫線を引くことができます。 
+
+＊sakura.portalsites
+ゴースト作者ツイッター
+https://twitter.com/TackNax
+
+：なにか僕にやって欲しい事があれば、この人につたえてくださいー
+
+＊sakura.portalsites
+ハワユ！(シェル作者様）
+http://hello.pv.land.to/
+http://hello.pv.land.to/banner.jpg
+-
+
+＊sakura.portalsites
+ゴーストの使い方
+http://keshiki.nobody.jp/
+
+
+
+＃＊sakura.portalsites
+
+
+
+
+＃＊sakura.recommendsites
+＃-
+＃http://
+＃
+
+＃＊kero.recommendsites
+＃-
+＃http://
+＃ソロゴーストであれば、kero側は必要ないことも。
+
+＃　φは直後の文字の「特殊性」を無効化します。
+＃　ここでは「…」がそのままでは「…\w3」に置き換えられてしまうのを防いでます。
+＃　他にも置き換えたくないカッコ　（　などに使えます。

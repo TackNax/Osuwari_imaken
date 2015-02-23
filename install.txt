@@ -1,0 +1,4 @@
+charset, Shift_JIS
+type,ghost
+name,‚¨À‚è¡Œ•‚­‚ñ
+directory,Osuwari_imaken

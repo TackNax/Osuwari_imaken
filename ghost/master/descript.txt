@@ -1,0 +1,15 @@
+charset,Shift_JIS
+
+craftman,TackNax+other
+craftmanw,TackNax{—¢Xƒ†[ƒU
+craftmanurl,https://twitter.com/TackNax
+
+name,‚¨À‚è¡Œ•‚­‚ñ
+type,ghost
+
+sakura.name,¡Œ•
+kero.name,‚È‚µ
+
+icon,post.ico
+shiori,satori.dll
+makoto,makoto.dll

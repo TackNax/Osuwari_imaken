@@ -1,0 +1,6 @@
+Charset,UTF-8
+install,476117966
+surfacecount,31
+firstboot,476117979
+commitmemorysize,432614
+lastboot,477984054

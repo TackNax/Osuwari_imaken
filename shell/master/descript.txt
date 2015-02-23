@@ -1,0 +1,12 @@
+charset,Shift_JIS
+id,master
+name,master
+type,shell
+
+craftman,amo
+craftmanw,amo
+craftmanurl,http://hello.pv.land.to/
+
+seriko.alignmenttodesktop,free
+
+readme,readme.txt
