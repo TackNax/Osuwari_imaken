@@ -24,9 +24,7 @@ shiori互換dll『里々（さとり）』用辞書
 vanish(&F)
 
 ＠readmebutton.caption
-現在のシェルについて(&R)
 取扱説明書(&R)
-Read me(&R)
 
 ＠vanishbutton.visible
 1 
